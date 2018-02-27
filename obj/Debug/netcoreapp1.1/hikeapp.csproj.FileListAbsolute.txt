@@ -1,0 +1,8 @@
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\hikeapp\bin\Debug\netcoreapp1.1\hikeapp.deps.json
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\hikeapp\bin\Debug\netcoreapp1.1\hikeapp.runtimeconfig.json
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\hikeapp\bin\Debug\netcoreapp1.1\hikeapp.runtimeconfig.dev.json
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\hikeapp\bin\Debug\netcoreapp1.1\hikeapp.dll
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\hikeapp\bin\Debug\netcoreapp1.1\hikeapp.pdb
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\hikeapp\obj\Debug\netcoreapp1.1\hikeapp.AssemblyInfo.cs
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\hikeapp\obj\Debug\netcoreapp1.1\hikeapp.dll
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\hikeapp\obj\Debug\netcoreapp1.1\hikeapp.pdb
